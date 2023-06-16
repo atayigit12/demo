@@ -1,0 +1,22 @@
+{ 
+    "snow": [
+	{ 
+		"name": "Uludag",
+		"brand": "Kayak Merkezi",
+		"price": "1200",
+		"quantity":"120",
+		"img": "uludag.jpg" },
+	{ 
+		"name": "Ilgaz",
+		"brand": "Kayak Merkezi",
+		"price": "650",
+		"quantity":"130",
+		"img": "ilgaz.jpg" },
+	{ 
+		"name": "Erzurum",
+		"brand": "Kış Oteli",
+		"price": "329",
+		"quantity":"160",
+		"img": "erzurum.jpg" }
+    ] 
+}
