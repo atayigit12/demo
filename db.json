@@ -1,22 +1,22 @@
 { 
     "snow": [
 	{ 
-		"name": "Uludag",
-		"brand": "Kayak Merkezi",
-		"price": "1200",
-		"quantity":"120",
-		"img": "uludag.jpg" },
+		"location": "Uludag",
+		"imgId": "R.drawable.uludag",
+		"vacType": "Kayak Merkezi",
+		"price":"1200",
+		"cm": "110" },
 	{ 
-		"name": "Ilgaz",
-		"brand": "Kayak Merkezi",
-		"price": "650",
-		"quantity":"130",
-		"img": "ilgaz.jpg" },
+		"location": "Ilgaz",
+		"imgId": "R.drawable.ilgaz",
+		"vacType": "Kayak Merkezi",
+		"price":"1000",
+		"cm": "130" },
 	{ 
-		"name": "Erzurum",
-		"brand": "Kış Oteli",
-		"price": "329",
-		"quantity":"160",
-		"img": "erzurum.jpg" }
+		"location": "Erzurum",
+		"imgId": "R.drawable.erzurum",
+		"vacType": "Kış Oteli",
+		"price":"600",
+		"cm": "190" }
     ] 
 }
